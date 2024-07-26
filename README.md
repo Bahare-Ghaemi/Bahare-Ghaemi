@@ -23,28 +23,28 @@
       <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" width="36" height="36" alt="Vite" /></a>
       <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="36" height="36" alt="Next.js" /></a>
       <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" width="36" height="36" alt="Next.js" /></a>
+      <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Flftgzwgzy8g2u8vqwso2.png" width="56" height="36" alt="zustand" /></a>
 </p>
 
 ### Other Skills
 <h1>
   
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="36" height="36" alt="Git" /></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="36" height="36" alt="Github" /></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" width="36" height="36" alt="GitLab" /></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" width="36" height="36" alt="Wordpress" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="36" height="36" alt="Git" /></a>
+      <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="36" height="36" alt="Github" /></a>
+      <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" width="36" height="36" alt="GitLab" /></a>
+      <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" width="36" height="36" alt="Wordpress" /></a>
       
 ### SoftWares
 <h1>
   
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="36" height="36" alt="VSCode" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="36" height="36" alt="Postman" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="36" height="36" alt="VSCode" /></a>
+<a href="https://www.figma.com/login" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="36" height="36" alt="Postman" /></a>
       
 ### Social
 <h1>
 <p align="left">
-    <a href="https://www.instagram.com/heydar_nayeri/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/instagram.svg" width="32" height="32" /></a>
-    <a href="https://www.linkedin.com/in/heydar-nayeri-993ab3195/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/linkedin.svg" width="32" height="32" /></a>
+    <a href="https://www.linkedin.com/in/bahare-ghaemi-ba22a8256/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/linkedin.svg" width="32" height="32" /></a>
 </p>
 
 ### My GitHub Stats

@@ -32,7 +32,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="36" height="36" alt="Git" /></a>
       <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="36" height="36" alt="Github" /></a>
       <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" width="36" height="36" alt="GitLab" /></a>
-      <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" width="36" height="36" alt="Wordpress" /></a>
       
 ### SoftWares
 <h1>

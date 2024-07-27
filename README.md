@@ -23,7 +23,9 @@
       <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" width="36" height="36" alt="Vite" /></a>
       <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="36" height="36" alt="Next.js" /></a>
       <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" width="36" height="36" alt="Next.js" /></a>
+      <a href="https://formik.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png" width="36" height="36" alt="formik" /></a>
       <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Flftgzwgzy8g2u8vqwso2.png" width="56" height="36" alt="zustand" /></a>
+      <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="36" height="36" alt="React-Query" /></a>
 </p>
 
 ### Other Skills
